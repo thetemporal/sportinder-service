@@ -1,4 +1,4 @@
-package com.aventurear.sportinderservice;
+package com.adventurear.sportinderservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
